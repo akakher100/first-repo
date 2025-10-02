@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-  printf("Hello Git User");
+  printf("Hello World");
   // is this my c example?
   // yes
   // sorry
