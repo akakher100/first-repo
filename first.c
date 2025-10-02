@@ -1,7 +1,4 @@
 #include <stdio.h>
 int main() {
-  printf("Hello World");
-  // is this my c example?
-  // yes
-  // sorry
+  printf("\033[1;31mHello World\033[0m");
 }
